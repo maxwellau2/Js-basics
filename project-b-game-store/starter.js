@@ -18,7 +18,7 @@
 //        { name: "FIFA",          price: 30 },
 //        { name: "Minecraft",     price: 25 },
 //        { name: "Elden Ring",    price: 60 },
-//        { name: "Stardew Valley",price: 15 }
+//        { name: "Stardew Valley", price: 15 }
 //      ];
 //
 // 2. SHOPPING CART
